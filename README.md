@@ -63,3 +63,7 @@ Nếu muốn đóng góp cho dự án, vui lòng đọc file `CONTRIBUTING.md` �
 ## Giấy phép
 
 Dự án sử dụng giấy phép MIT.
+
+## Tác giả
+
+Lê Duy Thắng - D23CTC1
